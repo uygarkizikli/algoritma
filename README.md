@@ -1,1 +1,1 @@
-# algoritma-dersi
+# Algoritma ve Programlamaya Giriş
