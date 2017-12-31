@@ -1,4 +1,4 @@
-// Klavyeden 15 sayısı girilene kadar sayıları toplayıp sonucu ekrana yazan java programı
+// Klavyeden 15 sayısı girilene kadar sayıları toplayıp sonucu ekrana yazan programı
 package cevap01;
 import java.util.Scanner;
 public class cevap01 {
